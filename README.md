@@ -5,7 +5,7 @@ Reading in RSS feeds for sentiment analysis
 
 Nothing to it. Just have Python3 and install the modules :)
 
-### Prerequisites
+## Prerequisites
 
 Python Modules:
   * feedparser
