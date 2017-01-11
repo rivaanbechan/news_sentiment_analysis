@@ -1,5 +1,4 @@
 import feedparser as fp
-from pprint import pprint as pp
 from textblob import TextBlob as tb
 import re
 
