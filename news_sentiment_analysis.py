@@ -44,5 +44,5 @@ bestDesc = worldNews['entries'][bestPolarity]['summary_detail']['value']
 bestDesc = descClean = re.sub('\<img.*$', '', bestDesc)
 print(bestDesc)
 
-# overall polarity off news headlines. 50% is used as a starting baseline.
+# overall polarity of news headlines. 50% is used as a starting baseline.
 print('\nOverall Positivity: ', 50 - round(finalPolarity*100),"%")
