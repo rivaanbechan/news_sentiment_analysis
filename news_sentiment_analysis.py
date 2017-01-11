@@ -33,7 +33,7 @@ bestPolarity = final.index(max(final))
 # display output of worst story
 print(worldNews['entries'][worstPolarity]['title'], "-- Worst Story :(")
 worstDesc = worldNews['entries'][worstPolarity]['summary_detail']['value']
-worstDesc = descClean = re.sub('\<img.*$', '', worstDesc)
+worstDesc = re.sub('\<img.*$', '', worstDesc)
 print(worstDesc)
 
 print('\n')
@@ -41,7 +41,7 @@ print('\n')
 # display output of best story
 print(worldNews['entries'][bestPolarity]['title'], "-- Best Story :)")
 bestDesc = worldNews['entries'][bestPolarity]['summary_detail']['value']
-bestDesc = descClean = re.sub('\<img.*$', '', bestDesc)
+bestDesc = re.sub('\<img.*$', '', bestDesc)
 print(bestDesc)
 
 # overall polarity of news headlines. 50% is used as a starting baseline.
