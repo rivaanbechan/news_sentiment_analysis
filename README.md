@@ -13,12 +13,10 @@ Python Modules:
   
 ## Example Output
 
->Death of Iran's Rafsanjani: Ex-president was a man of peace -- Worst Story :(
->
+>Death of Iran's Rafsanjani: Ex-president was a man of peace -- Worst Story :( . 
 >The news of the sudden passing of Ayatollah Akbar Hashemi Rafsanjani has utterly shocked Iranians of all walks of life.
 >
->FIFA gives go-ahead for expanded World Cup -- Best Story :)
->
+>FIFA gives go-ahead for expanded World Cup -- Best Story :) . 
 >FIFA, soccer's world governing body, has approved a grand plan to revolutionize the World Cup by increasing the number of teams from 32 to 48.
 >
 >Overall Positivity:  47 %
